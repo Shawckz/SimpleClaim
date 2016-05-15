@@ -1,0 +1,8 @@
+name: SimpleClaim
+main: com.shawckz.simpleclaim.SimpleClaim
+version: ${project.version} (MC-1.7.10/1.8)
+description: Simple land protection plugin similar to WorldGuard
+author: Shawckz
+website: http://shawckz.com
+
+# Commands are registered automatically
